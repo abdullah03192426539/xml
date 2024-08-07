@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-Stylesheet type="text/css" href="style.css"?>
+
+<!DOCTYPE CATALOG [
+<!ELEMENT CATALOG (CD+)>
+<!ELEMENT cd (Artist,Title,country,company,price,year)>
+<!ELEMENT Artist (#PCDATA)>
+<!ELEMENT Title (#PCDATA)>
+<!ELEMENT Country (#PCDATA)>
+<!ELEMENT Company (#PCDATA)>
+<!ELEMENT Price (#PCDATA)>
+<!ELEMENT Year (#PCDATA)>
+]>
+<CATALOG>
+<CD>
+<Title>Empire</Title>
+<Artist>bob dylan</Artist>
+<Country>USA</Country>
+<Price>10.09</Price>
+<Year>1998</Year>
+</CD>
+</CATALOG>
+
+
