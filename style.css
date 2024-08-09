@@ -1,7 +1,23 @@
+*{
+    margin-top: 20%;
+}
 Data{
     font-size: 30px;
     color: blue;
 }
 Name{
     font-family: cursive;
+}
+Title{
+    font-size: 25px;
+    font-family: cursive;
+    background-color: rgb(186, 216, 218);
+/* text-align: center; */
+margin: 35%;
+border: 2px solid black;
+border-radius: 10px;
+}
+Title:hover{
+    font-family: fantasy;
+    background-color: yellow;
 }

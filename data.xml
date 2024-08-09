@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<Details>
+        <a:Title xmlns:a="http://fake1.com/anything">
+        <a:cd>Insidious</a:cd>
+</a:Title>
+        <b:Title xmlns:b="http://fake2.com/anything">
+        <b:book>the fluit in our stars</b:book>  
+        </b:Title>      
+</Details>
+
+
